@@ -12,5 +12,6 @@
 	<classpathentry kind="src" path="seslisessizharfler"/>
 	<classpathentry kind="src" path="mukemmelsayilar"/>
 	<classpathentry kind="src" path="arkadassayilar"/>
+	<classpathentry kind="src" path="sayibulma"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
