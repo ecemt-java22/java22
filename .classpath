@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="ReCap1"/>
+	<classpathentry kind="src" path="ReCap2"/>
+	<classpathentry kind="src" path="miniprojeasalsayılar"/>
+	<classpathentry kind="src" path="seslisessizharfler"/>
+	<classpathentry kind="src" path="mukemmelsayilar"/>
+	<classpathentry kind="src" path="arkadassayilar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
